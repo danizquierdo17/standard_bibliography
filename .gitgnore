@@ -1,0 +1,12 @@
+# Ignorar carpetas de logs
+/work/logs/
+/work/logs_openai/
+
+# Ignorar todo el contenido de /data
+/work/data/*
+
+# Ignorar entorno virtual
+/work/venv/
+
+# Ignorar archivo de configuración con variables de entorno
+/work/.env
