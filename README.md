@@ -1,5 +1,5 @@
 # GenAI Bibliography standarize
-## _The Last Markdown Editor, Ever_
+
 
 
 
